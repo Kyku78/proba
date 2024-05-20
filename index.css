@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+ul {
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+}
+
+nav{
+    padding: 10px;
+    background-color: #E5DBCE;
+}
+nav a {
+    font-size: 20px;
+    text-decoration-line: none;
+    margin-right: 25px;
+    color: black;
+}
+
+nav a:hover {
+    color: #BA8474;
+}
+
+#azElso {
+    margin-top: 0;
+    color: #BA8474;
+    text-align: center;
+    padding-inline: 50px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF4ED;
+    height: 350px;
+}

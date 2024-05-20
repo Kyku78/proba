@@ -1,0 +1,38 @@
+form {
+    width: 310px;
+}
+
+body {
+    background-color: #E5DBCE !important;
+}
+
+input {
+    background: #FFF4ED !important;
+}
+
+select {
+    background-color: #FFF4ED !important;
+}
+
+.kep {margin-top: 0;
+    width: 100%;
+}
+
+.form-column {
+    padding-top: 265px;
+}
+
+#cim{margin-top: 40px;
+    margin-left: -70px;
+    text-shadow: 5px 5px 10px black;
+}
+
+#kepid{
+    margin-left: 115px;
+    border-radius: 50px 10px;
+
+}
+
+/*#mezok{
+    background: transparent;;
+}*/
